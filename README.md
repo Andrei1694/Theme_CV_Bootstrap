@@ -1,6 +1,7 @@
 # Theme_CV_Bootstrap
-####This is a bootstrap theme for a resume website.
-####For this project i used the following technologies:
+### Status: Finished
+#### This is a bootstrap theme for a resume website.
+#### For this project i used the following technologies:
 * HTML5
 * CSS3
 * JQuerry
