@@ -1,3 +1,3 @@
 # Theme_CV_Bootstrap
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Project Preview](https://raw.githubusercontent.com/Andrei1694/Theme_CV_Bootstrap/master/git-img.png)
